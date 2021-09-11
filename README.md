@@ -1,3 +1,5 @@
+***** CLICK RAW FOR BETTER VIEW ********
+
 # linkedList-middle-value-for-odd-numbers-in-c
 linkedList middle value for odd numbers in C
 
